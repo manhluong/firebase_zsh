@@ -7,7 +7,7 @@ It works with sub dirs too.
 Think of the git prompt but instead of the current branch you have the current active project.
 
 <p align="center">
-<img height=90 alt="FB prompt robbyrussell" src="https://github.com/manhluong/firebase_zsh/raw/master/res/firebase_prompt_info_robbbyrussell.png">
+<img height=150 alt="FB prompt robbyrussell" src="https://github.com/manhluong/firebase_zsh/raw/master/res/firebase_prompt_info_robbbyrussell.png">
 </p>
 
 ## Getting started
